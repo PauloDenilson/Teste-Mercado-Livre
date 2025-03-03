@@ -37,3 +37,6 @@ Foquei em mostrar o comportamento dos usuários de internet ao longo do tempo fa
 
 OBS:
 Poderia ter mais detalhes tanto graficos quanto visual para explicar os dados em questão mas o foco foi tentar gerar um relatório simples que ao bater o olho nos indicadores fosse possivel chegar a conclusão solicitada.
+
+link publico do relatorio:
+https://app.powerbi.com/view?r=eyJrIjoiMzZkNmYyMmUtODZlYi00Yzk1LTkyNTktMTIwM2FiMmJkMDdhIiwidCI6IjNhN2ZlZTNkLTY1MDktNDVhZS1iMWRjLTk4NTFhZmQxNmFmNyJ9
